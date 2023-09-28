@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: roccorcor/myapp:3.0.0
+        image: roccorcor/myapp:4.0.0
         imagePullPolicy: Always
         ports:
         - containerPort: 5000
